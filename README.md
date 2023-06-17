@@ -1,1 +1,2 @@
-Games made with mainly javascript with minimal HTML and CSS as a way of learning the language.
+Basic games made with Javascript.
+Minimal HTML and CSS used.
